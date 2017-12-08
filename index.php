@@ -1,6 +1,6 @@
 <?php
 
-//turn on debugging messages
+//turn on the debugging messages
 ini_set('display_errors', 'On');
 error_reporting(E_ALL);
 define('DATABASE', 'hs563');
